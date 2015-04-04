@@ -1,0 +1,21 @@
+{
+  "name": "mem-test",
+  "version": "1.0.0",
+  "description": "test app using mongodb, mongoose and expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "expressjs",
+    "mongoose"
+  ],
+  "author": "Tams Sokari",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3",
+    "mongoose": "^4.0.1"
+  }
+}
