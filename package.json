@@ -17,5 +17,14 @@
     "body-parser": "^1.12.2",
     "express": "^4.12.3",
     "mongoose": "^4.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aTamsSokari/mem-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aTamsSokari/mem-test/issues"
+  },
+  "homepage": "https://github.com/aTamsSokari/mem-test"
 }
